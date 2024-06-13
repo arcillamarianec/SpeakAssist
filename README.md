@@ -1,4 +1,3 @@
-<img width="217" alt="Screenshot 2024-06-13 at 9 17 52 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/fb664ec3-0532-42a3-8c3f-9deb5c5f4658"># SpeakAssist
 Role: Frontend Developer (Web and Mobile)
 - Dart
 - Flutter
@@ -18,7 +17,8 @@ Role: Frontend Developer (Web and Mobile)
 <img width="215" alt="Screenshot 2024-06-13 at 9 17 30 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/f83d0b5d-4289-4e59-9877-b13bfb9e5bec">
 <img width="444" alt="Screenshot 2024-06-13 at 9 17 38 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/7c3113d9-9c06-4957-80bf-0f39d53f1b7b">
 <img width="217" alt="Screenshot 2024-06-13 at 9 17 52 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/61a17d04-6f95-4553-b2f3-ed4fd5cf1c10">
-<br>
+<img width="217" alt="Screenshot 2024-06-13 at 9 17 52 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/fb664ec3-0532-42a3-8c3f-9deb5c5f4658">
+<br><br>
 **Website**<br>
 <img width="711" alt="Screenshot 2024-06-13 at 9 18 03 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/6b5ad6d6-4e7f-486c-81dd-ba197a84e00f">
 <img width="711" alt="Screenshot 2024-06-13 at 9 18 10 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/e4565e28-b5f0-41ba-8c8b-39d8e34df1a0">
