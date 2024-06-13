@@ -23,3 +23,5 @@ Role: Frontend Developer (Web and Mobile)
 <img width="711" alt="Screenshot 2024-06-13 at 9 18 03 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/6b5ad6d6-4e7f-486c-81dd-ba197a84e00f">
 <img width="711" alt="Screenshot 2024-06-13 at 9 18 10 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/e4565e28-b5f0-41ba-8c8b-39d8e34df1a0">
 <img width="711" alt="Screenshot 2024-06-13 at 9 18 19 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/b1793374-3750-4978-ada2-3084d15eb65b">
+<img width="626" alt="Screenshot 2024-06-13 at 9 24 11 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/df7602ce-dd9b-4810-927f-f12282e23974">
+
