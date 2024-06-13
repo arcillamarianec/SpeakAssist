@@ -1,12 +1,12 @@
 <h1>Speak Assist Web and Mobile Application</h1><br>
-Role: Frontend Developer (Web and Mobile)
-- Dart
-- Flutter
-- HTML
-- CSS
-- JavaScript
-
-**Screenshots:**
+Role: Frontend Developer (Web and Mobile)<br>
+- Dart<br>
+- Flutter<br>
+- HTML<br>
+- CSS<br>
+- JavaScript<br>
+<br><br>
+**Sample Screenshots:**
 <br>
 **Application**<br>
 <img width="628" alt="Screenshot 2024-06-13 at 9 15 20 PM" src="https://github.com/arcillamarianec/SpeakAssist/assets/113504877/68c21535-6564-48cc-b76d-0a15009fa603">
